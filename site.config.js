@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'e36ac0ec034c4634ae67c48425fb10d7',
+  rootNotionPageId: '9713360633fd40dfaccc6666bce6bdfb',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,12 +8,12 @@ module.exports = {
 
   // basic site info (required)
   name: 'Kang-Theo Blog',
-  domain: 'https://burly-canidae-cc6.notion.site/e36ac0ec034c4634ae67c48425fb10d7?v=9edf1b1e4c9b405e951e23207c7a998a',
+  domain: 'https://www.notion.so/Kang-Theo-Notion-Blog_Nextjs-notion-starter-kit-9713360633fd40dfaccc6666bce6bdfb',
   author: 'Kang-Theo',
 
   // open graph metadata (optional)
   description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  socialImageTitle: 'Kang-Theo Social',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
